@@ -2,4 +2,4 @@
 I enjoy simulating algorithms and different science and physics related stuff. Here I attempted to simulate 
 Double pendulum in processing.
 
-You can watch the live demo at 
+You can watch the live demo at https://github.com/GeVic/Pendulum_Simulation/
